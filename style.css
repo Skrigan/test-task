@@ -1,0 +1,19 @@
+.left-col * {
+  background-color: #F4F5F9;
+}
+
+.webix_list .webix_list_item {
+  border: none;
+}
+
+.connection_status {
+  color: green;
+  display: flex;
+  justify-content: center;
+  border: none;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
